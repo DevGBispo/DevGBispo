@@ -31,6 +31,6 @@ Oi! Eu sou o Gabriel, mas pode me chamar de **Bispo**.
 
 ### Minhas redes sociais
 
-[![Instagram](https://img.shields.io/badge/-@seuuser-833AB4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seuuser)  
+[![Instagram](https://img.shields.io/badge/-@seuuser-833AB4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gabriell_biispo)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://seuportfolio.com)  
-[![E-mail](https://img.shields.io/badge/-email@exemplo.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:email@exemplo.com)
+[![E-mail](https://img.shields.io/badge/-email@exemplo.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriellbiispo@outlook.com)
